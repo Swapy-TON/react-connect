@@ -3,5 +3,5 @@ export default function SwapyConnect() {
         <div>
             <p>Swapy Connect</p>
         </div>
-    )
+    );
 }
