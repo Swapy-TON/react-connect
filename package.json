@@ -45,6 +45,7 @@
     "react-dom": ">=18.2.0"
   },
   "dependencies": {
+    "@fingerprintjs/fingerprintjs-pro-react": "^2.6.3",
     "lodash": "^4.17.21"
   },
   "devDependencies": {
